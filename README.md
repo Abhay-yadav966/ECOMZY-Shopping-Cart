@@ -13,3 +13,4 @@
   - Shows the total amount of items in the cart.
   - Provides a "Checkout" button to proceed to checkout.
 ## Screenshots
+![Screenshot (209)](https://github.com/Abhay-yadav966/ECOMZT-Shopping-Cart/assets/115336330/25fbad21-97a1-4905-93c8-5707c2ea35f5)
