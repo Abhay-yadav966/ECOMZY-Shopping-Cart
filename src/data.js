@@ -36,7 +36,7 @@ export const products = [
     image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
     rating: {
       rate: 4.7,
-      count: 500,
+      count: 500, 
     },
   },
   {

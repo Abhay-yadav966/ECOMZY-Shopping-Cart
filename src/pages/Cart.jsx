@@ -17,8 +17,8 @@ const Cart = () => {
   useEffect( () => (
     setTotalAmount( cart.reduce( (acc, curr) =>  acc + curr.price ,0 ) )
     ) , [cart]);
-  
-  
+   
+   
   
   const Navigate = useNavigate();
 
