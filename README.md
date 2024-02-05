@@ -14,3 +14,4 @@
   - Provides a "Checkout" button to proceed to checkout.
 ## Screenshots
 ![Screenshot (209)](https://github.com/Abhay-yadav966/ECOMZT-Shopping-Cart/assets/115336330/25fbad21-97a1-4905-93c8-5707c2ea35f5)
+![Screenshot (210)](https://github.com/Abhay-yadav966/ECOMZT-Shopping-Cart/assets/115336330/e2e73e63-032f-4c65-a95d-b32fc0bfbe80)
